@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 - FULL_NAME: Carolay Arraut Heredia
 - GITHUB_USER: carolayarraut
-- TEAM: BarberSaaS Team
 
